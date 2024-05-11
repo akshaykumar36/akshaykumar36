@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay Kumar S
-- 👀 I’m newbie to Tech and would love to learn tech things from you all
+- 👀 I’m a newbie to Tech and would love to learn tech things from you all
 - 🌱 I’m currently learning Linux and Python
 
 <!---
